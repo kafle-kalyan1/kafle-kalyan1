@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, React Native**
 
-- 👨‍💻 All of my projects are available at [kalyankafle.com.np](kalyankafle.com.np)
+<!-- - 👨‍💻 All of my projects are available at [kalyankafle.com.np](kalyankafle.com.np) -->
 
 - 📝 I regularly write articles on [https://blog-kafle-kalyan1.vercel.app/blog/](https://blog-kafle-kalyan1.vercel.app/blog/)
 
