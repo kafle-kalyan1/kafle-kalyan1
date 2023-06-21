@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kafle_kalyan1" target="blank"><img src="https://img.shields.io/twitter/follow/kafle_kalyan1?logo=twitter&style=for-the-badge" alt="kafle_kalyan1" /></a> </p>
 
-- 🌱 I’m currently learning **Django, React Native**
+- 🌱 I’m currently learning **C#, .NET, React**
 
 <!-- - 👨‍💻 All of my projects are available at [kalyankafle.com.np](kalyankafle.com.np) -->
 
