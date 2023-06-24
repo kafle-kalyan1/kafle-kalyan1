@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **C#, .NET**
 
-- 👨‍💻 All of my projects are available at [kalyankafle.com.np](kalyankafle.com.np)
-
 - 📫 How to reach me **kalyankafle123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
