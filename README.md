@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/kafle_kalyan1" target="blank"><img src="https://img.shields.io/twitter/follow/kafle_kalyan1?logo=twitter&style=for-the-badge" alt="kafle_kalyan1" /></a> </p>
 
+[![wakatime](https://wakatime.com/badge/user/d33d118b-65bc-4810-898a-d3f855131306.svg)](https://wakatime.com/@d33d118b-65bc-4810-898a-d3f855131306)
+
 - 🌱 I’m currently learning **C#, .NET**
 
 - 📫 How to reach me **kalyankafle123@gmail.com**
